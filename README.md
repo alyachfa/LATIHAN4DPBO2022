@@ -6,9 +6,11 @@ Latihan Praktikum 4 Mata Kuliah DPBO
 #Desain
 
 Hierarchical Inheritance
+
 ![latihanA](https://user-images.githubusercontent.com/75361865/156930960-bb3d6d35-14bb-4e6a-930f-af17904c4d67.png)
 
 Multiple Inheritance
+
 ![latihanB](https://user-images.githubusercontent.com/75361865/156930971-2597edd1-8439-4052-afaf-8f7f7e9a9cac.png)
 
 Penjelasan :
