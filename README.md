@@ -3,7 +3,7 @@ Latihan Praktikum 4 Mata Kuliah DPBO
 
 >Saya Alya Chairunnisa mengerjakan evaluasi Latihan Praktikum 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah >dispesifikasikan. Aamiin.
 
-#Desain
+# Desain
 
 Hierarchical Inheritance
 
@@ -17,7 +17,7 @@ Penjelasan :
 1. Pada desain pertama digambarkan bahwa Kelas vehicle adalah parent dari kelas ship dan kelas airplane alasannya karena ship dan airplane merupakan turunan dari veichle atau bisa dibilang airplane (pesawat) dan ship (kapal) termasuk dalam kategori vehicle (kendaraan).
 2. Untuk penjelasan desain kedua Kelas Driver adalah turunan atau anak dari Kelas Job dan Kelas Person alasannya karena menurut saya kelas driver membutuhkan data-data yang ada pada kelas job dan juga person maka dari itu saya memutuskan untuk membuat Kelas Person dan Job parent dari Kelas Driver.
 
-#Screenshot Hasil
+# Screenshot Hasil
 
 ![Screenshot (625)](https://user-images.githubusercontent.com/75361865/156931438-466aa692-a412-49fa-bd4f-1edb574a1a60.png)
 ![Screenshot (626)](https://user-images.githubusercontent.com/75361865/156931440-acc1d4de-78b2-4f31-a11e-4dcfb861b20d.png)
